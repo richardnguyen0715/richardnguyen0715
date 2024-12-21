@@ -11,7 +11,7 @@ A 3rd-year student of Computer science - Data science in VNU-HCMC University of 
 
  **I am open to**:
 
-- AI engineering intern,
+- AI engineer intern,
 - Data scientist intern,
 - Researcher.
 
