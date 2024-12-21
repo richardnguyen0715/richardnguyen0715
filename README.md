@@ -13,8 +13,7 @@ A 3rd-year student of Computer science - Data science in VNU-HCMC University of 
 
 - AI engineering intern,
 - Data scientist intern,
-- Researcher and
-- Content creator.
+- Researcher.
 
 ## Skills:
 
